@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Decor/static/css/main.df387a06.css",
+    "main.js": "/Decor/static/js/main.1da3b36d.js",
+    "static/media/Valantis.png": "/Decor/static/media/Valantis.7ff472fd17f495de8bce.png",
+    "index.html": "/Decor/index.html",
+    "main.df387a06.css.map": "/Decor/static/css/main.df387a06.css.map",
+    "main.1da3b36d.js.map": "/Decor/static/js/main.1da3b36d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df387a06.css",
+    "static/js/main.1da3b36d.js"
+  ]
+}
